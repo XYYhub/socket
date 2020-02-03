@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\Socket1_Client\Socket1_Client\bin\Debug\Socket1_Client.exe.config
+C:\Users\HP\source\repos\Socket1_Client\Socket1_Client\bin\Debug\Socket1_Client.exe
+C:\Users\HP\source\repos\Socket1_Client\Socket1_Client\bin\Debug\Socket1_Client.pdb
+C:\Users\HP\source\repos\Socket1_Client\Socket1_Client\obj\Debug\Socket_Client.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Socket1_Client\Socket1_Client\obj\Debug\Socket1_Client.exe
+C:\Users\HP\source\repos\Socket1_Client\Socket1_Client\obj\Debug\Socket1_Client.pdb
